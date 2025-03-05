@@ -16,5 +16,5 @@ sudo apt update && sudo apt install terraform
 8. Initialize Terraform: `terraform init`
 9. Check the plan: `terraform plan`
 10. Commit the changes: `terraform apply`
-11. Get the IP address from the output (last line)
+11. Get the IP address from the output (last line) and check whether it works
 12. Validate the lab
