@@ -79,8 +79,8 @@ Search Rules: Default
 
 5. Sync: 
 
-1. Simulate Sync
-2. Sync and apply changes
+* Simulate Sync
+* Sync and apply changes
 
 
 
